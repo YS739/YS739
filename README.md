@@ -11,4 +11,4 @@
   
 </p>
 
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YS739&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img align="center" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YS739&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
